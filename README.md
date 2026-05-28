@@ -1,10 +1,12 @@
 ### Olá! Sou o Bruno Terceti! 👋
 
-💡 **Atualmente focando em JavaScript e Python**  
+💡 **💡 Atualmente focado no desenvolvimento de aplicações web, APIs e automações utilizando JavaScript e Python.**  
 
-- 🚀 Desenvolvendo projetos em **JavaScript** e **Python**
-- 📘 Criando interfaces com **HTML** e **CSS**
-- 📫 Entre em contato: bruno.terceti@gmail.com
+- 🚀 Desenvolvendo projetos com Node.js, Fastify e Prisma
+- 🧠 Criando sistemas backend, automações e integrações
+- 📘 Trabalhando com JavaScript, Python, HTML e CSS
+- 🗄️ Utilizando PostgreSQL e SQLite
+- 📫 Contato: bruno.terceti@gmail.com
 
 ---
 
@@ -13,6 +15,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="bruno-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="bruno-Fastify" height="30" width="40" src="https://cdn.simpleicons.org/fastify/ffffff">
+  <img align="center" alt="bruno-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="bruno-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
