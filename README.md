@@ -1,6 +1,6 @@
 ### Olá! Sou o Bruno Terceti! 👋
 
-💡 **💡 Atualmente focado no desenvolvimento de aplicações web, APIs e automações utilizando JavaScript e Python.**  
+**💡 Atualmente focado no desenvolvimento de aplicações web, APIs e automações utilizando JavaScript e Python.**  
 
 - 🚀 Desenvolvendo projetos com Node.js, Fastify e Prisma
 - 🧠 Criando sistemas backend, automações e integrações
